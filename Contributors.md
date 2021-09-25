@@ -24,6 +24,7 @@
 - [Andy](https://github.com/andy814/)
 - [PeaceSeed](https://github.com/PeaceSeed/)
 - [Muhammad Faizan](https://github.com/MuhammadFaizan7326)
+- [Lothri] (https://github.com/Lothri)
 - [Shresth](https://github.com/Shresth-Jain/)
 - [Atul](https://github.com/atulk0)
 - [Minku Singh](https://github.com/minku-singh)
